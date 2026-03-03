@@ -2,7 +2,8 @@ const CACHE_NAME = 'cineruleta-v1';
 const ASSETS = [
   './',
   './index.html',
-  './manifest.json'
+  './manifest.json',
+  './img/logo.png'
 ];
 
 // Instalar y guardar en caché
